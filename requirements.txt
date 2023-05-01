@@ -2,5 +2,5 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 oauth2client
-Flask==1.0.2
+Flask==2.3.2
 requests
